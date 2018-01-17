@@ -1,2 +1,2 @@
 # SEVEN_PROJECT
-A website mockup of all my projects
+Mockup and information of most of my unifished projects
